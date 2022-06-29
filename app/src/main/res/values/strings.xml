@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">EzInsulin</string>
+    <string name="insulin_ratio_label">Insulin Ratio</string>
+    <string name="carbohydrates_label">Carbohydrates</string>
+    <string name="current_blood_glucose_label">Current Blood Glucose</string>
+    <string name="target_blood_glucose_label">Target Blood Glucose</string>
+    <string name="correction_factor_label">Correction Factor</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="dose_header">Recommended Dose</string>
+    <string name="unit_grams">grams</string>
+    <string name="unit_mmol_l">mmol/L</string>
+    <string name="unit_mg_dl">mg/dl</string>
 </resources>
